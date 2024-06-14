@@ -1,0 +1,6 @@
+Connected to PPTP server at 213.219.205.156:1723
+{'length': 156, 'msg_type': 1, 'magic_cookie': 439041101, 'control_message_type': 2, 'reserved0': 0, 'protocol_version': 256, 'result_code': 1, 'error_code': 0, 'framing_capabilities': 2, 'bearer_capabilities': 3, 'max_channel': 0, 'firmware_revision': 0, 'hostname': '', 'vendor': 'Microsoft'}
+Connected to PPTP server at 144.217.253.149:1723
+{'length': 156, 'msg_type': 1, 'magic_cookie': 439041101, 'control_message_type': 2, 'reserved0': 0, 'protocol_version': 256, 'result_code': 1, 'error_code': 0, 'framing_capabilities': 0, 'bearer_capabilities': 0, 'max_channel': 1, 'firmware_revision': 1, 'hostname': 'local', 'vendor': 'linux'}
+Connected to PPTP server at 54.36.174.134:1723
+{'length': 156, 'msg_type': 1, 'magic_cookie': 439041101, 'control_message_type': 2, 'reserved0': 0, 'protocol_version': 256, 'result_code': 1, 'error_code': 0, 'framing_capabilities': 0, 'bearer_capabilities': 0, 'max_channel': 1, 'firmware_revision': 1, 'hostname': 'local', 'vendor': 'linux'}
